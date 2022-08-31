@@ -13,6 +13,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true
   },
-  "include": ["src"],
-  "exclude": ["node_modules"]
+  "include": ["src", "/**/*.ts"],
+  "exclude": ["node_modules", "lib", "esm", "dist", "typings"]
 }
