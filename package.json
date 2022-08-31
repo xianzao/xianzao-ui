@@ -1,6 +1,6 @@
 {
   "name": "xianzao-ui",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "a react ui library",
   "main": "lib/index.js",
   "module": "esm/index.js",
